@@ -1,0 +1,10 @@
+C Values:	1e-1 	1    	10   
+
+
+Balanced: False
+
+
+Gamma: 0.36787944117144233
+
+Z-normalized - no PCA
+0.289	0.228	

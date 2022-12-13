@@ -1,0 +1,21 @@
+C Values:
+1e-2 	1e-1 	1    	10   	100  
+
+
+Balanced: False
+
+RAW
+0.781	0.838	0.896	
+Z-normalized - no PCA
+0.34	0.332	0.349	
+Gaussianized
+0.339	0.343	0.361	
+
+Balanced: True
+
+RAW
+0.676	0.804	0.946	
+Z-normalized - no PCA
+0.338	0.34	0.337	
+Gaussianized
+0.352	0.355	0.355	

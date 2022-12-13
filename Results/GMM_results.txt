@@ -1,0 +1,20 @@
+
+Tied      	Diag      	Components	MinDFC    
+
+ Tied: False Diag: False components: 2
+Z-norm
+False     	False     	2         	0.300978792822186
+
+Gaussianized
+False     	False     	2     	0.318
+
+
+ Tied: False Diag: False components: 4
+Z-norm
+False     	False     	4         	0.3066884176182708
+
+Gaussianized
+False     	False     	4     	0.307
+
+
+ Tied: False Diag: False components: 8

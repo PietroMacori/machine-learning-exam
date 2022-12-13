@@ -1,0 +1,57 @@
+COMPONENTS: 4
+TIED: False
+DIAG: False
+	RAW - 0.305
+	Z - 0.299
+	G - 0.318
+DIAG: True
+	RAW - 0.342
+	Z - 0.337
+	G - 0.255
+TIED: True
+DIAG: False
+	RAW - 0.32
+	Z - 0.304
+	G - 0.284
+DIAG: True
+	RAW - 0.348
+	Z - 0.371
+	G - 0.321
+COMPONENTS: 8
+TIED: False
+DIAG: False
+	RAW - 0.289
+	Z - 0.306
+	G - 0.328
+DIAG: True
+	RAW - 0.337
+	Z - 0.342
+	G - 0.284
+TIED: True
+DIAG: False
+	RAW - 0.316
+	Z - 0.297
+	G - 0.282
+DIAG: True
+	RAW - 0.32
+	Z - 0.318
+	G - 0.308
+COMPONENTS: 16
+TIED: False
+DIAG: False
+	RAW - 0.331
+	Z - 0.326
+	G - 0.382
+DIAG: True
+	RAW - 0.319
+	Z - 0.329
+	G - 0.32
+TIED: True
+DIAG: False
+	RAW - 0.289
+	Z - 0.316
+	G - 0.284
+DIAG: True
+	RAW - 0.311
+	Z - 0.325
+	G - 0.305

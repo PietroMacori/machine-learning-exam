@@ -1,0 +1,11 @@
+Gaussianized features - no PCA
+MVG: 0.301		Naive Bayes: 0.439		Tied: 0.345		Tied Naive Bayes: 0.442
+
+Gaussianized features - PCA = 10
+MVG: 0.291		Naive Bayes: 0.4		Tied: 0.351		Tied Naive Bayes: 0.352
+
+Gaussianized features - PCA = 9
+MVG: 0.303		Naive Bayes: 0.405		Tied: 0.352		Tied Naive Bayes: 0.354
+
+Raw features - no PCA
+MVG: 0.312		Naive Bayes: 0.42		Tied: 0.336		Tied Naive Bayes: 0.403
